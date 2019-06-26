@@ -1,0 +1,14 @@
+body {
+  backgroundColor: mediumslateblue;
+  padding-top: 25px;
+  text-decoration: italic;
+  text-outline: none;
+}
+
+h1 {
+  color: limeGreen;
+}
+
+h4 {
+  color: red;
+}
